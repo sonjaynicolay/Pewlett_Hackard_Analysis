@@ -14,7 +14,13 @@ Provide a bulleted list with four major points from the two analysis deliverable
 
 
 **- First Thing's First**
-To begin our research we had to create several tables of data from which we would pull results. This original list of tables are called our schemas. 
+To begin our research we created several tables of data from which we pulled our final results. This original list of tables are called our schemas. The schemas included the departments, employees, dept_manager, dept_emp, titles and salaries tables. 
+![schema](https://user-images.githubusercontent.com/69441332/96401292-7b85ce80-1198-11eb-9eda-ff71f544d01e.png)
+
+**-Number Of Employees Retiring at Each Position
+
+Looking deeper we were able to determine how many employees will be retiring at each title or job position within Pewlett Hackard. Because the company is large the numbers are large. 29,414 will be eligible to retire at the Senior Engineer postion and 28,254 as Senior Staff. That is a good amount of Senior level staff for a company to lose all at once.
+
 
 
 
