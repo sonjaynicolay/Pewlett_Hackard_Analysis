@@ -14,14 +14,22 @@ Provide a bulleted list with four major points from the two analysis deliverable
 
 
 **- First Thing's First**
+
 To begin our research we created several tables of data from which we pulled our final results. This original list of tables are called our schemas. The schemas included the departments, employees, dept_manager, dept_emp, titles and salaries tables. 
 ![schema](https://user-images.githubusercontent.com/69441332/96401292-7b85ce80-1198-11eb-9eda-ff71f544d01e.png)
 
+
 **-Number Of Employees Retiring at Each Position
 
-Looking deeper we were able to determine how many employees will be retiring at each title or job position within Pewlett Hackard. Because the company is large the numbers are large. 29,414 will be eligible to retire at the Senior Engineer postion and 28,254 as Senior Staff. That is a good amount of Senior level staff for a company to lose all at once.
+Looking deeper we were able to determine how many employees will be retiring at each title or job position within Pewlett Hackard. Because the company is large, employees numbers and the numbers they will be losing are considerably large. 29,414 will be eligible to retire at the Senior Engineer postion and 28,254 as Senior Staff. That is a good amount of Senior level staff for a company to lose all at once.
+![retiring_titles](https://user-images.githubusercontent.com/69441332/96402291-21d2d380-119b-11eb-9d84-329d0b7e94b8.png)
 
 
+**-
+
+
+**-The Mentorship Program**
+Lastly we found the employees who will be eligible for the mentorship program. The individuals are employees who are approaching retirement born between January 1, 1965 and December 31, 1965. 
 
 
 **Summary:** Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
